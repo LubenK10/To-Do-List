@@ -10,7 +10,7 @@ Adding a Task: To add a new task to your to-do list, type the task description i
 
 Completing a Task: When you've completed a task, click the checkbox next to the task description to mark it as complete. You can also uncheck the checkbox if you want to undo the completion.
 
-Deleting a Task: If you want to remove a task from your to-do list, click the "Delete" button (trash icon) next to the task description.
+Deleting a Task: If you want to remove a task from your to-do list, click the "Delete" button next to the task description.
 
 Features:
 
